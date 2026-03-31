@@ -7,8 +7,6 @@ Platform note: MLX targets Apple silicon, so these are Mac-focused projects.
 
 If you want to add your project, open a PR. Projects with some traction will be added.
 
-## Main List (>=100 stars) — Category Based
-
 ### Core MLX & Examples
 
 1. [ml-explore/mlx](https://github.com/ml-explore/mlx) — ⭐ 24916 — MLX: An array framework for Apple silicon
@@ -104,7 +102,7 @@ If you want to add your project, open a PR. Projects with some traction will be 
 8. [terry-yes/mlx_example](https://github.com/terry-yes/mlx_example) — ⭐ 174 — Some examples for those who try to use MLX library for 42 subject CUB3D or miniRT. And some helpful links.
 9. [alphrc/lilm](https://github.com/alphrc/lilm) — ⭐ 119 — Large language model fine-tuned to mimic LIHKG users' behavior
 
-## Rising (50–99 stars)
+### Rising projects
 
 1. [Natxo09/Eris.](https://github.com/Natxo09/Eris.) — ⭐ 98 — Eris is a private AI chat application that runs entirely on your device using Apple's MLX framework. Named after the dwarf planet that challenged our understanding of the solar system, Eris challenges the notion that AI must live in the cloud.
 2. [Mcourtyard/m-courtyard](https://github.com/Mcourtyard/m-courtyard) — ⭐ 95 — M-Courtyard: Local AI Model Fine-tuning Assistant for Apple Silicon. Zero-code, zero-cloud, privacy-first desktop app powered by Tauri + React + mlx-lm.

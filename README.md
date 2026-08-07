@@ -77,6 +77,7 @@ If you want to add your project, open a PR. Projects with some traction will be 
 
 ## Training, Fine-tuning & Optimization
 
+- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm): Mac-local factory to post-train, evaluate, and package specialist LLMs (MLX, real eval gates).
 - [transformerlab-app](https://github.com/transformerlab/transformerlab-app): The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 - [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark): Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
 - [mlx-retrieval](https://github.com/jina-ai/mlx-retrieval): Train embedding and reranker models for retrieval tasks on Apple Silicon with MLX

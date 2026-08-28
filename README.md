@@ -22,6 +22,7 @@ If you want to add your project, open a PR. Projects with some traction will be 
 
 - [llmfit](https://github.com/AlexsJones/llmfit): Hundreds of models & providers. One command to find what runs on your hardware.
 - [omlx](https://github.com/jundot/omlx): LLM inference server with continuous batching & SSD caching for Apple Silicon - managed from the macOS menu bar
+- [RapidMLX](https://github.com/raullenchai/Rapid-MLX): OpenAI- and Anthropic-compatible MLX inference server for Apple Silicon with continuous batching, prompt caching, tool calling, and multimodal support.
 - [osaurus](https://github.com/osaurus-ai/osaurus): Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [mlx-vlm](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [Klee](https://github.com/signerlabs/Klee): A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
